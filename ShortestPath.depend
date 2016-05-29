@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1463923734 source:c:\users\yachi\documents\cplusdoc\shortestpath\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<fstream>
+	<cstdlib>
+
